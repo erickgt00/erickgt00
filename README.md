@@ -14,5 +14,5 @@ I am a Data Scientist specialized in Investment Banking, dedicated to providing 
 
 ## Some of my Work
 
-*[Multiple Linear Regression to Predict Apple Share Price](https://github.com/erickgt00/proyectos/tree/main/Multiple%20Linear%20Regression)
+* [Multiple Linear Regression to Predict Apple Share Price](https://github.com/erickgt00/proyectos/tree/main/Multiple%20Linear%20Regression)
 
