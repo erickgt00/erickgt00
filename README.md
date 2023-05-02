@@ -1,16 +1,18 @@
-### Hi there 👋
+# ERICK GARZA TAMEZ
 
-<!--
-**erickgt00/erickgt00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 📧 erickagt16@gmail.com
 
-Here are some ideas to get you started:
+* 📞 +52 811 980 1519
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📍 Monterrey, México.
+
+---
+
+## Data Scientist | Investment Banker
+
+I am a Data Scientist specialized in Investment Banking, dedicated to providing comprehensive solutions for businesses. I possess extensive knowledge in the financial market, derivatives, finance, machine learning, modeling, statistics, and programming. While my background is in finance, I enjoy tackling diverse challenges through data science and finding innovative solutions.
+
+## Some of my Work
+
+*[Multiple Linear Regression to Predict Apple Share Price](https://github.com/erickgt00/proyectos/tree/main/Multiple%20Linear%20Regression)
+
