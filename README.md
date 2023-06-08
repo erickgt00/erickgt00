@@ -22,4 +22,5 @@ I am a Data Scientist specialized in Investment Banking, dedicated to providing 
 * [Multiple Linear Regression to Predict Apple Share Price](https://github.com/erickgt00/proyectos/tree/main/Multiple%20Linear%20Regression)
 * [Predicting the Delinquency of Credit Clients](https://github.com/erickgt00/proyectos/tree/main/Credit%20Default%20ML)
 * [Deep Learning Progress](https://github.com/erickgt00/Deep-Learning/tree/main)
+* [Análisis de Sentimiento sobre Chat GPT](https://github.com/erickgt00/Datos-Masivos/blob/main/Practicas/Analisis_Sentimiento_Twitter_Chatgpt.ipynb)
 
